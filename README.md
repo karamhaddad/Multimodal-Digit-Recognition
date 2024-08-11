@@ -62,6 +62,7 @@ The model consists of three main components:
 ## Results
 
 The model's performance can be evaluated based on the validation accuracy printed during training. The best model is saved as `best_model.pth`.
+I was able to obtain 99.18% accuracy on the test set.
 
 ## Feature Visualization
 
